@@ -48,10 +48,7 @@ cd cli-todo-app
 python todoapp.py
 
 📌 Screenshot
-
-![Screenshot (313)](https://github.com/user-attachments/assets/8daabe34-6b6d-469f-9021-dbfc6d54c56f)
-
-
+![b](https://github.com/user-attachments/assets/04539a2c-5820-4c6b-aaa3-441e085a08cd)
  📦 Requirements
 This app runs on basic Python 3 — no external libraries needed.
 
