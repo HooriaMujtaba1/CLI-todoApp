@@ -49,17 +49,18 @@ python todoapp.py
 
 📌 Screenshot
 
+
 ![b](https://github.com/user-attachments/assets/04539a2c-5820-4c6b-aaa3-441e085a08cd)
 
 
 
- 📦 Requirements
+ 📦 Requirements:
 This app runs on basic Python 3 — no external libraries needed.
 
-🙌 Acknowledgements
+🙌 Acknowledgements:
 Made with ❤️ for learning and productivity improvement.
 
-🧑‍💻 Author
+🧑‍💻 Author:
 Hooria
 GitHub: HooriaMujtaba1 , https://github.com/HooriaMujtaba1
 
