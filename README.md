@@ -1,4 +1,4 @@
-# 📝 CLI Todo App
+![Screenshot (313)](https://github.com/user-attachments/assets/b2ddc451-b262-4a76-b2f8-db9e5cc4bbcd)# 📝 CLI Todo App
 
 A simple and interactive Command-Line Todo App built with Python.  
 This app lets users manage their daily tasks through a menu-driven interface, including **Create**, **Read**, **Update**, and **Delete** operations.
@@ -47,15 +47,11 @@ cd cli-todo-app
 
 python todoapp.py
 
-📌 Example
+📌 Screenshot
 
-What would you like to do? (1-5): 1
-Enter the task you want to add: Finish Python project
-Great! task  Added to your to-dos 💪
 
-What would you like to do? (1-5): 2
-You have 1 tasks to complete:
- Task 1: Finish Python project
+![Screenshot (313)](https://github.com/user-attachments/assets/a704a407-2703-445b-9baa-e26e01095b32)
+
 
  📦 Requirements
 This app runs on basic Python 3 — no external libraries needed.
