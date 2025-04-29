@@ -47,8 +47,8 @@ class TodoApp:
             print("📭 No tasks available to delete!")
             return  # Immediately exit if no tasks
 
-       # self.read_tasks()
-         num = input("Enter the task number you want to delete: ")
+        self.read_tasks()
+        num = input("Enter the task number you want to delete: ")
         if num.isdigit():
             num = int(num)
             if 1 <= num <= len(self.tasks):
