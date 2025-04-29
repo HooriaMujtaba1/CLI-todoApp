@@ -5,11 +5,11 @@ class TodoApp:
     def show_operations(self):
         print("\n📋 Welcome to your Todo App!")
         print("What would you like to do?")
-        print(" 1 • CREATE a new task")
-        print(" 2 • READ existing tasks")
-        print(" 3 • UPDATE a task")
-        print(" 4 • DELETE a task")
-        print(" 5 • EXIT the app")
+        print(" 1 • Create a new task")
+        print(" 2 • Read existing tasks")
+        print(" 3 • Update a task")
+        print(" 4 • Delete a task")
+        print(" 5 • Exit the app")
 
     def create_task(self):
         task = input("Enter the task you want to add: ")
