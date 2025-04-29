@@ -1,4 +1,5 @@
- 📝 CLI Todo App
+# 📝 CLI Todo App
+
 
 A simple and interactive Command-Line Todo App built with Python.  
 This app lets users manage their daily tasks through a menu-driven interface, including **Create**, **Read**, **Update**, and **Delete** operations.
